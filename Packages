@@ -1,0 +1,13 @@
+Package: com.lilbartje.mytweak
+Name: Mitsuha Forever
+Version: 1.0.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Depends: mobilesubstrate
+Description: repo clone
+Homepage: https://github.com/Ast4r0z/LilBartjes-repo
+Filename: com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm.deb
+Size: 92008
+SHA256: 6D2EE9253A3180FD40520A4643A828A29FC419AA2EE120410FE9009D0C410ECB 
